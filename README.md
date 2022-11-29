@@ -1,1 +1,1 @@
-# OVID-19-PPE-Object-Detection-Yolov4
+# COVID-19-PPE-Object-Detection-Yolov4
